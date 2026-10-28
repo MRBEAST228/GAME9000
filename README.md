@@ -24,4 +24,5 @@ Py-Game
 
 
 
-<img width="506" height="518" alt="image" src="https://github.com/user-attachments/assets/e812d101-4a5c-4892-b1ea-588eeb388b4b" />
+<img width="401" height="404" alt="Screenshot 2026-10-28 210528" src="https://github.com/user-attachments/assets/67e046de-472c-4dac-86a0-e46d64323477" />
+
