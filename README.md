@@ -7,6 +7,9 @@ It has 5 lvls to beat.to jump press   ((space) as in any other game).to go right
 
 ## Technology 
 <img width="800" height="600" alt="7787c6081505451ca11acc8b43aa75ec" src="https://github.com/user-attachments/assets/d6988fb6-24e0-4597-8325-8167a6cc40c7" />
+
+
+
 Language: Python
 Software: Pycharm
 
