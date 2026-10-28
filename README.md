@@ -21,4 +21,7 @@ Software: Pycharm
 Py-Game
 4.**activate server**
 
+
+
+
 <img width="506" height="518" alt="image" src="https://github.com/user-attachments/assets/e812d101-4a5c-4892-b1ea-588eeb388b4b" />
